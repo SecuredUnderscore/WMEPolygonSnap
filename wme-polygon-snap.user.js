@@ -3,7 +3,7 @@
 // @namespace    https://greasyfork.org/users/wme-polygon-snap
 // @version      1.0.0
 // @description  Snap to nearby polygon edges and vertices when drawing or modifying polygons in the Waze Map Editor.
-// @author       WME Polygon Snap Contributors
+// @author       ThatVictoriaGuy (Secured_ on Discord)
 // @license      MIT
 // @match        https://www.waze.com/editor*
 // @match        https://www.waze.com/*/editor*
