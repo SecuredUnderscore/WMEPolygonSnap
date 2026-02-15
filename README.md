@@ -10,7 +10,7 @@
 
 ## Installation
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension.
-2. [Click here to install the script](wme-polygon-snap.user.js) (or copy-paste the code into a new script).
+2. [Click here to install the script](https://greasyfork.org/en/scripts/566337-wme-polygon-snap) (or copy-paste the code into a new script).
 3. Refresh WME, and look for the 🧲 icon in the bottom right.
 
 ## Configuration
